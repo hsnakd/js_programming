@@ -59,3 +59,14 @@ let email = 'cydeoschool@gmail.com';
 let domain = email.substring(email.indexOf('@') + 1, email.lastIndexOf('.'));
 
 console.log(domain);
+
+console.log('--------------------------------------');
+
+let employeeName = 'James';
+let employeeAge = 35;
+
+console.log('Employee name is: ' + employeeName);
+console.log('Employee age is: ' + employeeAge);
+
+console.log(`My name is ${employeeName}, and I am ${employeeAge} years old.`);
+// backtick character need to be used instead of '' or ""

@@ -4,15 +4,18 @@ Topics:
     String
     Arrays
     Functions
-    Class & Objects
-    Inheritance
     AI Tools In Coding
 
 
 
 Next Class:
-    1. Exceptions
-    2. Asynchronous Programming in JS
+    1. Inheritance
+    2. Class & Objects
+    3. Exceptions
+    4. Asynchronous Programming in JS:
+            promise
+            Asynch
+            Await
     
     3. Introduction to Playwright
     4. Playwright Installation & Setup
