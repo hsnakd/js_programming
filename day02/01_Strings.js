@@ -71,5 +71,20 @@ let employeeAge = 35;
 console.log('Employee name is: ' + employeeName);
 console.log('Employee age is: ' + employeeAge);
 
+console.log('My name is ' + employeeName + ', and I am ' + employeeAge + ' years old.');
 console.log(`My name is ${employeeName}, and I am ${employeeAge} years old.`);
 // backtick character need to be used instead of '' or ""
+
+
+let str1 = 'Java';
+let str2 = "Script";
+let str3 = `awesome`;
+
+let result;
+
+result = "The result variable is : "+ str1 + ' ' + str2 + ' ' + str3 ; // Like Java
+
+console.log(result);
+
+result = `The result variable is : ${str1} ${str2} ${str3}`;
+console.log(result);
