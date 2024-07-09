@@ -8,12 +8,15 @@ console.log(schoolName[11]);
 
 console.log('--------------------------------------');
 
-schoolName = schoolName.toLowerCase(); // 'cydeo school'
-console.log(schoolName);
+schoolName.toLowerCase(); 
+console.log(schoolName);      // 'CYDEO SCHOOL'
+
+schoolName = schoolName.toLowerCase(); 
+console.log(schoolName);      // 'cydeo school'
 
 
-schoolName = schoolName.toUpperCase(); // 'CYDEO SCHOOL'
-console.log(schoolName);
+schoolName = schoolName.toUpperCase(); 
+console.log(schoolName);      // 'CYDEO SCHOOL'
 
 console.log('--------------------------------------');
 
@@ -21,7 +24,7 @@ let expectedText = 'JavaScript'
 
 let actualText = 'javascript'
 
-console.log( expectedText.toLowerCase() === actualText.toLowerCase());
+console.log( expectedText.toLowerCase() === actualText.toLowerCase());  // ignoreCaseSensitivity
 
 console.log(expectedText);
 console.log(actualText);
