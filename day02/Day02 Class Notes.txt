@@ -1,0 +1,20 @@
+JavaScript Programming Day02
+
+Topics:
+    String
+    Arrays
+    Functions
+    Class & Objects
+    Inheritance
+    AI Tools In Coding
+
+
+
+Next Class:
+    1. Exceptions
+    2. Asynchronous Programming in JS
+    
+    3. Introduction to Playwright
+    4. Playwright Installation & Setup
+    5. Interacting with Browsers in Playwright
+    6. Interacting with WebElements in Playwright
