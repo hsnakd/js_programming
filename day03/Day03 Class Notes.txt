@@ -1,0 +1,20 @@
+JavaScript Programming Day03
+
+Topics:
+    Class & Objects
+    Inheritance
+    Exceptions/Errors
+    Promises
+    Async & Await
+    Introduction to Playwright
+    Playwright project setup
+
+
+
+
+
+Next Class:
+    Working with Browsers
+    Interacting with WebElements
+    Assertions
+    AI for web automation
