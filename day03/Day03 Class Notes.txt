@@ -1,4 +1,4 @@
-JavaScript Programming Day03
+JavaScript Programming Day02
 
 Topics:
     Class & Objects
@@ -11,10 +11,9 @@ Topics:
 
 
 
-
-
 Next Class:
+    Introduction to Playwright
+    Playwright project setup
     Working with Browsers
     Interacting with WebElements
-    Assertions
     AI for web automation
