@@ -93,7 +93,7 @@ Create a class named Item with the following requirements:
         name, price, quantity
 
     Methods:
-        constructor: to initalize all attributes
+        constructor: to initialize all attributes
         calculateTotalPrice: to calculate and return the total price of the item (price * quantity)
         toString:
 */

@@ -1,21 +1,21 @@
 async function getIntoCar() {
-  return new Promise((reslove) => {
+  return new Promise((resolve) => {
     console.log("Get into the car");
-    reslove();
+    resolve();
   });
 }
 
 async function startCar() {
-  return new Promise((reslove) => {
+  return new Promise((resolve) => {
     console.log("Car started");
-    reslove();
+    resolve();
   });
 }
 
 async function drive() {
-  return new Promise((reslove) => {
+  return new Promise((resolve) => {
     console.log("Driving the car");
-    reslove();
+    resolve();
   });
 }
 
@@ -23,5 +23,5 @@ getIntoCar()
   .then(() => startCar())
   .then(() => drive())
   .finally(() => {
-    console.log("reached the destination");
+    console.log("Reached the destination");
   });

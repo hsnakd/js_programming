@@ -22,7 +22,7 @@ admin = userName;
 console.log(admin);
 
 /**
- * JS is dynamicly typing language
+ * JS is dynamically typing language
  */
 
 let a;

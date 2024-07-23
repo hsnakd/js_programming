@@ -4,7 +4,7 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 // fruits = ["honda","toyota"]; we make the refence variable constant not the array values
 fruits.push("Kiwi"); // we can add or change the values array
 fruits.sort();
-console.log("Frits array after sorting");
+console.log("Fruits array after sorting");
 console.log(fruits); // sorted in ascending order
 // how to sort in descending order ? reverse() --> function
 fruits.reverse();
@@ -105,7 +105,7 @@ console.log(number);
 
 // create a fake userName : oscar+qa(number) number between 5 or 6 digit numbers
 
-// custom utilty function that creates a value between min and max values
+// custom utility function that creates a value between min and max values
 function getRndInteger(min,max) {
   return Math.floor(Math.random() * max) + min;
 }

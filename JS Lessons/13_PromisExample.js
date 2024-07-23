@@ -38,7 +38,7 @@ arr.forEach(myScript);
 console.log(txt);
  */
 
-// HOW TO HANDLE ASYNC code in JS: promisses, 
+// HOW TO HANDLE ASYNC code in JS: promises, 
 // new JS is using async notation as a function (async and await implementation)
 
 function createArray(stringObject) {
@@ -56,7 +56,7 @@ function createArray(stringObject) {
     })
 }
 
-createArray("CYDEO").then((arr) => {  // if promiss fullfills it will return to me an array object and I gave a name as 'arr'
+createArray("CYDEO").then((arr) => {  // if promise fulfills it will return to me an array object and I gave a name as 'arr'
     arr.forEach(myScript);
     console.log(txt);
 }).catch((str) => {

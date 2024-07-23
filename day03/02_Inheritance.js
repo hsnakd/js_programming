@@ -35,7 +35,6 @@ class Teacher extends Person{
 
 }
 
-
 let student = new Student('Henry', 25, 'Male', 'A01');
 
 let teacher = new Teacher("Smith", 45, 'Male');

@@ -1,7 +1,7 @@
 async function findElement(locator) {
   let promise = new Promise((resolve, reject) => {
     if (locator === "valid-locator") {
-      resolve("Element bfound");
+      resolve("Element found");
     } else {
       reject("Element not found");
     }
